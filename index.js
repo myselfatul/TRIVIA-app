@@ -1,7 +1,7 @@
 // 'use strict'
 
 // const express = require('express')
-// const systemController = require('./controller/systemController')
+// const userController = require('./controller/userController')
 
 
 // const app = express()
@@ -10,15 +10,15 @@
 // app.use(express.urlencoded({extended: false}));
 
 
-// app.post('/login', systemController.login)
+// app.post('/login', userController.login)
 
-// app.get('/ques1', systemController.question1)
+// app.get('/ques1', userController.question1)
 
-// app.get('/ques2', systemController.question2)
+// app.get('/ques2', userController.question2)
 
-// app.post('/summary', systemController.saveHistory)
+// app.post('/summary', userController.saveHistory)
 
-// app.get('/history', systemController.getHistory)
+// app.get('/history', userController.getHistory)
 
 
 // // server
